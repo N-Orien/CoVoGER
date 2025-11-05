@@ -1,0 +1,11 @@
+Sr No .,Utterance,Speaker,Emotion,Sentiment,Dialogue_ID,Utterance_ID,Season,Episode,StartTime,EndTime,Target
+1,"Oh my God, he's lost it . He's totally lost it .",Phoebe,sadness,negative,0,0,4,7,"00:20:57,256","00:21:00,049",天哪，他不行了。他完全不行了。
+2,What?,Monica,surprise,negative,0,1,4,7,"00:21:01,927","00:21:03,261",什么？
+3,"Or! Or, we could go to the bank, close our accounts and cut them off at the source .",Ross,neutral,neutral,1,0,4,4,"00:12:24,660","00:12:30,915",或者去银行，取消户头，断了他们的财路。
+4,You're a genius!,Chandler,joy,positive,1,1,4,4,"00:12:32,334","00:12:33,960",你太有才了！
+5,"Aww, man, now we won't be bank buddies!",Joey,sadness,negative,1,2,4,4,"00:12:34,211","00:12:37,505",那我们就不能当银行好兄弟了！
+6,"Now, there's two reasons .",Chandler,neutral,neutral,1,3,4,4,"00:12:38,466","00:12:39,841",现在又多了一个理由。
+7,Hey .,Phoebe,neutral,neutral,1,4,4,4,"0:12:43,012","0:12:44,074",嗨。
+8,Hey!,All,joy,positive,1,5,4,4,"0:12:44,074","0:12:45,189",嗨！
+9,"Ohh, you guys, remember that cute client I told you about? I bit him .",Phoebe,neutral,neutral,1,6,4,4,"00:12:45,347","00:12:50,852",记得我说的那个帅哥客人？我咬了他。
+10,Where?!,Rachel,surprise,negative,1,7,4,4,"0:12:52,730","0:12:55,002",咬哪里？！
