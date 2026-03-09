@@ -1,3 +1,3 @@
 Code for the paper "CoVoGER: A Multilingual Multitask Benchmark for Speech-to-text Generative Error Correction with Large Language Models."
 
-The data will is published at [https://huggingface.co/datasets/PeacefulData/CoVoGER](https://huggingface.co/datasets/PeacefulData/CoVoGER).
+The data is published at [https://huggingface.co/datasets/PeacefulData/CoVoGER](https://huggingface.co/datasets/PeacefulData/CoVoGER).
